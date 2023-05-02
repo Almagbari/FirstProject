@@ -27,3 +27,11 @@ System.debug('My name is ' + tempvar);
     }
     // insert these tasks into Salesforce
     insert taskList;
+
+
+
+
+
+  //  git config --global user.name "Ali"
+
+// git config --global user.email "alialmjberya@gmail.com"
